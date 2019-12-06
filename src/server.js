@@ -11,7 +11,6 @@ const publicDirectoryPath = path.join(__dirname, "../public");
 // Setup static directory to server
 app.use(express.static(publicDirectoryPath));
 
-
 // Listener for port
 app.listen(port, () => {
     console.log(`Server is up on port ${port}`)
