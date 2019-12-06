@@ -1,0 +1,24 @@
+{
+  "name": "team-finder",
+  "version": "1.0.0",
+  "description": "Find a team to work on a project together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DMcCulloch-Coder/team-finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DMcCulloch-Coder/team-finder/issues"
+  },
+  "homepage": "https://github.com/DMcCulloch-Coder/team-finder#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
